@@ -22,10 +22,8 @@ ZZPay - 开源个人收款系统，支持支付宝、微信收款码，资金直
 
 ### 本项目运行Demo
 
-- 电脑端进入→ [在线demo](https://zzpay.zz82.net/)
+- 电脑端进入→ [在线demo](http://zzpay.zz82.net/)
 
-- 手机扫码体验
- ![](https://zzpay.zz82.net/img/qr.png)
 
 ###  个人申请支付接口现状
 - 原生支付宝，微信支付
@@ -98,11 +96,11 @@ ZZPay - 开源个人收款系统，支持支付宝、微信收款码，资金直
 `第三步：zzpay_app 告诉zzpay_server 这个支付成功的消息 -> zzpay_server 把这个消息回调给你的网站(notify_url)`
 
 - 支付流程图
-    ![](https://zzpay.zz82.net/img/flowchart.png)
+    ![](http://zzpay.zz82.net/img/flowchart.png)
 
 
 #### ZZPay源码（含详细文档）获取方式 
-- 进入 [ZZPay官网](https://zzpay.zz82.net/) 成功支付测试后，将自动发至你所填写的邮箱中
+- 进入 [ZZPay官网](http://zzpay.zz82.net/) 成功支付测试后，将自动发至你所填写的邮箱中
 
 ### 技术疑问交流
-- 进入 [ZZPay官网](https://zzpay.zz82.net/) ，可获取各项目详细图文文档、疑问解答
+- 进入 [ZZPay官网](http://zzpay.zz82.net/) ，可获取各项目详细图文文档、疑问解答
